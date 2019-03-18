@@ -1,6 +1,6 @@
 # learningRepository
 The content is about my study process.
-##Content
+## Content
 The code is just like a little man and I read it in a book. 
 I think it is pretty fun and the image showed at least is very beautiful.
 So I unload it and change a bit.
